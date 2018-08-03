@@ -10,12 +10,12 @@ Estado Civil: Solteiro<br>
 
 # Formação Acadêmica
 
-**2012 - 2018** 
+**2012 - 2018**<br> 
 **Sistemas de Informação** - UFMG (Universidade Federal de Minas Gerais)
 
 # Idiomas
 
-**Português Nativo**
+**Português Nativo**<br>
 **Inglês** - Certificado TOEFL ITP 2014 Nivel B2 (Avançado)
 
 # Habilidades
