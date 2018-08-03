@@ -21,7 +21,7 @@ Estado Civil: Solteiro<br>
 # Habilidades
 
 ### Linguagens e Plataformas
-- Assembly, C, C++, C#, Unity, Java, HTML, CSS, Javascript, PHP, Python, Android Studio. 
+- Assembly, C, C++, C#, Java, HTML, CSS, Javascript, PHP, Python, Android Studio, Unity, Eclipse, UML. 
 
 ## Paradigmas e Técnicas de Programação
  - Programação Dinâmica, Algoritimos de Estruturas de Dados Avançados, Programação Orientada a Objetos, Teoria dos Números, Grafos, Geometria Computacional, Programação Imperativa, Programação Genética, Redes Neurais, Programação Modular.
@@ -37,7 +37,7 @@ Estado Civil: Solteiro<br>
 
 # Alguns Projetos Pessoais e Acadêmicos
 
-https://github.com/athemiz/
+Github: https://github.com/athemiz/
 
 - Aplicativo de Android para Gerenciamento de Condomínios com Lean UX - (Monografia - Nota 99,00)
 https://github.com/athemiz/condoShare
