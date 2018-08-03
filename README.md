@@ -3,10 +3,10 @@
 # Detalhes pessoais
 
 Nome: Luiz Otávio Teixeira Caldonazo<br>
-Email: otaviocaldonazo@hotmail.com
-Data de Nascimento: 21/02/1994
-Nacionalidade: Brasileiro
-Estado Civil: Solteiro
+Email: otaviocaldonazo@hotmail.com<br>
+Data de Nascimento: 21/02/1994<br>
+Nacionalidade: Brasileiro<br>
+Estado Civil: Solteiro<br>
 
 # Formação Acadêmica
 
