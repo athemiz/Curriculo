@@ -9,17 +9,17 @@ Nacionalidade: Brasileiro
 Estado Civil: Solteiro
 
 # Formação Acadêmica
----
+--
 **2012 - 2018** 
 **Sistemas de Informação** - UFMG (Universidade Federal de Minas Gerais)
 
 # Idiomas
----
+--
 **Português Nativo**
 **Inglês** - Certificado TOEFL ITP 2014 Nivel B2 (Avançado)
 
 # Habilidades
----
+--
 
 ### Linguagens e Plataformas
 - Assembly, C, C++, C#, Unity, Java, HTML, CSS, Javascript, PHP, Python, Andoid Studio. 
@@ -37,7 +37,7 @@ Estado Civil: Solteiro
 - Prototipagem e Metodologias Ágeis (Lean UX), Administração, Modelagem de Processos de Negócios, Computação Visual, Machine Learning, Segurança da Informação, Git, Photoshop, Desenvolvimento de Jogos, Mercado Financeiro, Sistemas Embutidos.
 
 # Alguns Projetos Pessoais e Acadêmicos
----
+--
 https://github.com/athemiz/
 
 - Aplicativo de Android para Gerênciamento de Condomínios com Lean UX - (Monografia - Nota 99,00)
