@@ -54,7 +54,7 @@ https://github.com/athemiz/Banco-de-Dados-Geograficos/tree/master/Analise%20de%2
 
 - Identificação de respostas em gabarito com Computação Visual
 
-- Machine Learning com Comutação Visual para quebrar CAPTCHAS
+- Machine Learning com Computação Visual para quebrar CAPTCHAS
 
 - Sistema Embutido para detectar vazamento de gás
 
